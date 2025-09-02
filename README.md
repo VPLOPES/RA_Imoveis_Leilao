@@ -50,11 +50,11 @@ O dashboard oferece uma visão consolidada dos imóveis cadastrados, permitindo 
 
 ### Brasil
 
-![Dashboard Brasil](p2.png)
+![Dashboard Brasil](imagens/p2.png)
 
 ### Minas Gerais
 
-![Dashboard Minas Gerais](p1.png)
+![Dashboard Minas Gerais](imagens/p1.png)
 
 ---
 
